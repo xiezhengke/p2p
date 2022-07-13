@@ -1,0 +1,1 @@
+2022-07-12 16:10:51,556 INFO [root] [login.py(test09_get_messageCode_fail_no_imgCode:109)] - get messageCode response {'status': 100, 'description': '图片验证码错误'}
